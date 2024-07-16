@@ -1,4 +1,4 @@
-# Abstractive-Text-Summarization
+# Encoder Decoder Transformer from Scratch
 <ul>
   <li> Implemented Encoder-Decoder transformer from scratch with multi-head attention mechanism and positional encoding from research paper for abstractive text summarization.
   <li> Created custom vocabulary and dataset in Pytorch to fetch text samples and their summaries for training and validation data loader
